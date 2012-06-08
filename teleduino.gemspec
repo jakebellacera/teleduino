@@ -6,7 +6,7 @@ Gem::Specification.new do |s|
   s.version = JSONBuilder::VERSION
   s.summary = 'Ruby interface for controlling Teleduino-enabled Arduino devices.'
   s.description = 'Ruby interface for controlling Teleduino-enabled Arduino devices.'
-  s.authors     = ['Jake Bellacera']
+  s.authors     = ['Jake Bellacera', 'Nathan Kennedy']
   s.email       = ['hi@jakebellacera.com']
   s.platform    = Gem::Platform::RUBY
 
