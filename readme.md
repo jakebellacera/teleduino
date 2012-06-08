@@ -1,0 +1,1 @@
+This is a ruby port for [Teleduino](http://www.teleduino.org), originally created by [Nathan Kennedy](https://twitter.com/#!/nathanknz).
